@@ -8,7 +8,7 @@ Developed @ One Month in NYC
 */
 
 body {
-	background: url('../images/cookie-monster.jpg');
+	background: url('../images/escalator-769790.jpg');
 	/* the follow is the code to have the image display as a full page */
 	background-position: center;
 	background-attachment: fixed;
@@ -19,9 +19,10 @@ body {
 }
 
 #container {
-	background: black;
+	background: #8b8a8c;
 	width: 424px;
 	color: white;
+	font-family: 'Gloria Hallelujah', cursive;
 	padding: 15px;
 }
 
